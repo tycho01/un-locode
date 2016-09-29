@@ -1,0 +1,29 @@
+{
+  "name": "un-locode",
+  "version": "1.0.1",
+  "description": "The United Nations Code for Trade and Transport Locations is a code list mantained by UNECE, United Nations agency, to facilitate trade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tycho01/un-locode.git"
+  },
+  "keywords": [
+    "UN",
+    "locode",
+    "countries",
+    "regions",
+    "cities"
+  ],
+  "author": "UNECE",
+  "license": "PDDL-1.0",
+  "bugs": {
+    "url": "https://github.com/tycho01/un-locode/issues"
+  },
+  "homepage": "https://github.com/tycho01/un-locode#readme",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  }
+}

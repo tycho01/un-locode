@@ -1,0 +1,42 @@
+[
+  {
+    "FunctionCode": "0",
+    "FunctionDescription": "Function not known, to be specified"
+  },
+  {
+    "FunctionCode": "1",
+    "FunctionDescription": "Port, as defined in Rec 16"
+  },
+  {
+    "FunctionCode": "2",
+    "FunctionDescription": "Rail Terminal"
+  },
+  {
+    "FunctionCode": "3",
+    "FunctionDescription": "Road Terminal"
+  },
+  {
+    "FunctionCode": "4",
+    "FunctionDescription": "Airport"
+  },
+  {
+    "FunctionCode": "5",
+    "FunctionDescription": "Postal Exchange Office"
+  },
+  {
+    "FunctionCode": "6",
+    "FunctionDescription": "Multimodal Functions (ICDs, etc.)"
+  },
+  {
+    "FunctionCode": "7",
+    "FunctionDescription": "Fixed Transport Functions (e.g. Oil platform)"
+  },
+  {
+    "FunctionCode": "8",
+    "FunctionDescription": "Inland Port"
+  },
+  {
+    "FunctionCode": "B",
+    "FunctionDescription": "Border Crossing"
+  }
+]

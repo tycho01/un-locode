@@ -1,0 +1,117 @@
+[
+ {
+  "STStatus": "AA",
+  "STDescription": "Approved by competent national government agency"
+ },
+ {
+  "STStatus": "AC",
+  "STDescription": "Approved by Customs Authority"
+ },
+ {
+  "STStatus": "AF",
+  "STDescription": "Approved by national facilitation body"
+ },
+ {
+  "STStatus": "AI",
+  "STDescription": "Code adopted by international  organisation (IATA, ECLAC, EUROSTAT, etc.)"
+ },
+ {
+  "STStatus": "AM",
+  "STDescription": "Approved by the UN/LOCODE Maintenance Agency"
+ },
+ {
+  "STStatus": "AQ",
+  "STDescription": "Entry approved, functions not verified"
+ },
+ {
+  "STStatus": "AS",
+  "STDescription": "Approved by national standardisation body"
+ },
+ {
+  "STStatus": "QQ",
+  "STDescription": "Original entry not verified since date indicated"
+ },
+ {
+  "STStatus": "RL",
+  "STDescription": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work"
+ },
+ {
+  "STStatus": "RN",
+  "STDescription": "Request from credible national sources for locations in their own country"
+ },
+ {
+  "STStatus": "RQ",
+  "STDescription": "Request under consideration"
+ },
+ {
+  "STStatus": "RR",
+  "STDescription": "Request rejected"
+ },
+ {
+  "STStatus": "UR",
+  "STDescription": "Entry included on user's request; not officially approved"
+ },
+ {
+  "STStatus": "XX",
+  "STDescription": "Entry that will be removed from the next issue of UN/LOCODE"
+ }
+]"
+JSON.stringify(temp1.data, null, '  ')
+"[
+  {
+    "STStatus": "AA",
+    "STDescription": "Approved by competent national government agency"
+  },
+  {
+    "STStatus": "AC",
+    "STDescription": "Approved by Customs Authority"
+  },
+  {
+    "STStatus": "AF",
+    "STDescription": "Approved by national facilitation body"
+  },
+  {
+    "STStatus": "AI",
+    "STDescription": "Code adopted by international  organisation (IATA, ECLAC, EUROSTAT, etc.)"
+  },
+  {
+    "STStatus": "AM",
+    "STDescription": "Approved by the UN/LOCODE Maintenance Agency"
+  },
+  {
+    "STStatus": "AQ",
+    "STDescription": "Entry approved, functions not verified"
+  },
+  {
+    "STStatus": "AS",
+    "STDescription": "Approved by national standardisation body"
+  },
+  {
+    "STStatus": "QQ",
+    "STDescription": "Original entry not verified since date indicated"
+  },
+  {
+    "STStatus": "RL",
+    "STDescription": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work"
+  },
+  {
+    "STStatus": "RN",
+    "STDescription": "Request from credible national sources for locations in their own country"
+  },
+  {
+    "STStatus": "RQ",
+    "STDescription": "Request under consideration"
+  },
+  {
+    "STStatus": "RR",
+    "STDescription": "Request rejected"
+  },
+  {
+    "STStatus": "UR",
+    "STDescription": "Entry included on user's request; not officially approved"
+  },
+  {
+    "STStatus": "XX",
+    "STDescription": "Entry that will be removed from the next issue of UN/LOCODE"
+  }
+]
