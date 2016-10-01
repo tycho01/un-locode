@@ -1,6 +1,6 @@
 {
   "name": "un-locode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The United Nations Code for Trade and Transport Locations is a code list mantained by UNECE, United Nations agency, to facilitate trade.",
   "main": "gulpfile.js",
   "scripts": {
